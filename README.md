@@ -2,8 +2,6 @@
 
 A production-ready OTP (One-Time Password) verification service built with Go and Gin, leveraging Twilio's SMS gateway for secure phone number authentication.
 
----
-
 ## Tech Stack
 
 | Component | Technology | Purpose |
